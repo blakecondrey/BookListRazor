@@ -1,0 +1,50 @@
+﻿<Properties StartupConfiguration="{ADA6E9AB-D9E1-42F6-B263-208B543DD92C}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="BookListRazor/Model/Book.cs">
+    <Files>
+      <File FileName="BookListRazor/Startup.cs" Line="36" Column="14" IsPinned="True" />
+      <File FileName="BookListRazor/Pages/Books/Index.cshtml.cs" Line="17" Column="1" />
+      <File FileName="BookListRazor/Pages/Books/Create.cshtml" />
+      <File FileName="BookListRazor/Model/Book.cs" Line="11" Column="14" />
+      <File FileName="BookListRazor/Model/SeedData.cs" />
+      <File FileName="BookListRazor/Pages/Books/Index.cshtml" Line="1" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="BookListRazor" expanded="True">
+            <Node name="BookListRazor" expanded="True">
+              <Node name="Dependencies" expanded="True" />
+              <Node name="Data" expanded="True" />
+              <Node name="Migrations" expanded="True">
+                <Node name="20211011202811_InitialCreate.cs" expanded="True" />
+              </Node>
+              <Node name="Model" expanded="True">
+                <Node name="Book.cs" selected="True" />
+              </Node>
+              <Node name="Pages" expanded="True">
+                <Node name="Books" expanded="True">
+                  <Node name="Create.cshtml" expanded="True" />
+                  <Node name="Edit.cshtml" expanded="True" />
+                  <Node name="Index.cshtml" expanded="True" />
+                </Node>
+                <Node name="Shared" expanded="True" />
+                <Node name="Index.cshtml" expanded="True" />
+                <Node name="Privacy.cshtml" expanded="True" />
+              </Node>
+              <Node name="Properties" expanded="True" />
+              <Node name="wwwroot" expanded="True" />
+              <Node name="appsettings.json" expanded="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.BookListRazor PreferredExecutionTarget="/Applications/Google Chrome.app" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
